@@ -9,5 +9,6 @@
 <p>Get The Dots <a href="getthedots.neocities.org"</p>>
 <hr>
 <h5>Sorry! Thats all we have right now! Check back soon.</h5>
+font=impact
 </body>
 </html>
