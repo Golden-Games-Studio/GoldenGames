@@ -4,7 +4,7 @@
 <title>Home - Golden Games</title>
 <h1>Welcome to Golden Games Studio!</h1>
 <hr>
-<a href="about us"About Us
+<a href="about us"About Us<p>
 <hr>
 <h3>You Can Find All Of Our Games Below:</h3>
 <hr>
