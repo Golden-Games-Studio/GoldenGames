@@ -6,7 +6,7 @@
 <hr>
 <h3>You Can Find All Of Our Games Below:</h3>
 <hr>
-<p>Get The <b>Dots</b> <a href="getthedots.neocities.org"</p>>
+<p>Get The <u>Dots</u> <a href="getthedots.neocities.org"</p>>
 <hr>
 <h5>Sorry! Thats all we have right now! Check back soon.</h5>
 </body>
